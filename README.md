@@ -22,12 +22,12 @@
 ---
 
 ## 📂 Project Structure
----
+
 📁 clickwatch/
-├── wentraffic.json # Sample 100 user session JSONs
-├── silverlayer_clickwatch.py # PySpark pipeline for Silver Layer in Fabric
-├── clickwatch_product_report.pbix # Power BI report for visualization
-└── README.md
+- ├── wentraffic.json # Sample 100 user session JSONs
+- ├── silverlayer_clickwatch.py # PySpark pipeline for Silver Layer in Fabric
+- ├── clickwatch_product_report.pbix # Power BI report for visualization
+- └── README.md
 
 
 ---
