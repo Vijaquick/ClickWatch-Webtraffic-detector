@@ -7,6 +7,8 @@
 
 **ClickWatch** is a real-time web traffic analytics solution that captures, processes, and visualizes user behavior across your product pages. Built on Microsoft Fabric with Event Hubs, Delta Lake, and PySpark, this solution helps product teams measure interest in new ideas before investing heavily.
 
+![ClickWatch Preview](https://github.com/Vijaquick/ClickWatch-Webtraffic-detector/blob/main/clickwatch%20preview.png)
+
 ---
 
 ## 🚀 Features
