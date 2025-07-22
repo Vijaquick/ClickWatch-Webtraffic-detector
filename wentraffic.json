@@ -1,0 +1,522 @@
+[
+  {
+    "session_id": "8bc9b4e0-7",
+    "user_id": "guest_175.244.233.64",
+    "timestamp": "2025-07-22T10:49:39Z",
+    "user_agent": "FakeBrowser/1.0 (Windows 10)",
+    "device_type": "tablet",
+    "os": "Windows 10",
+    "browser": "Chrome",
+    "page_url": "/product-idea-page",
+    "referrer": "techpro",
+    "utm_source": "instagram",
+    "utm_medium": "ad",
+    "utm_campaign": "productlaunch_aug",
+    "events": [
+      {
+        "event_type": "click",
+        "element_id": "learnMoreLink",
+        "timestamp": "2025-07-22T10:49:54Z"
+      }
+    ],
+    "time_spent_seconds": 170,
+    "is_returning_visitor": true,
+    "visit_count": 2,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "3429305c-c",
+    "user_id": "guest_164.158.59.235",
+    "timestamp": "2025-07-22T11:30:39Z",
+    "user_agent": "FakeBrowser/1.0 (iOS)",
+    "device_type": "desktop",
+    "os": "iOS",
+    "browser": "Firefox",
+    "page_url": "/product-idea-page",
+    "referrer": "techpro",
+    "utm_source": "linkedin",
+    "utm_medium": "organic",
+    "utm_campaign": "newidea_july",
+    "events": [
+      {
+        "event_type": "submit",
+        "element_id": "submitButton",
+        "timestamp": "2025-07-22T11:30:53Z"
+      }
+    ],
+    "time_spent_seconds": 259,
+    "is_returning_visitor": false,
+    "visit_count": 3,
+    "bounce": true,
+    "conversion": true
+  },
+  {
+    "session_id": "f097bfe0-5",
+    "user_id": "guest_195.170.113.75",
+    "timestamp": "2025-07-22T10:53:39Z",
+    "user_agent": "FakeBrowser/1.0 (macOS)",
+    "device_type": "desktop",
+    "os": "macOS",
+    "browser": "Firefox",
+    "page_url": "/product-idea-page",
+    "referrer": "techpro",
+    "utm_source": "twitter",
+    "utm_medium": "influencer",
+    "utm_campaign": "productlaunch_aug",
+    "events": [
+      {
+        "event_type": "click",
+        "element_id": "submitButton",
+        "timestamp": "2025-07-22T10:54:06Z"
+      }
+    ],
+    "time_spent_seconds": 262,
+    "is_returning_visitor": false,
+    "visit_count": 4,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "a35e9b6d-1",
+    "user_id": "guest_102.44.53.21",
+    "timestamp": "2025-07-22T11:01:24Z",
+    "user_agent": "FakeBrowser/1.0 (Android)",
+    "device_type": "mobile",
+    "os": "Android",
+    "browser": "Chrome",
+    "page_url": "/product-idea-page",
+    "referrer": "newsletter",
+    "utm_source": "facebook",
+    "utm_medium": "influencer",
+    "utm_campaign": "newidea_july",
+    "events": [
+      {
+        "event_type": "hover",
+        "element_id": "tryNowButton",
+        "timestamp": "2025-07-22T11:01:30Z"
+      }
+    ],
+    "time_spent_seconds": 180,
+    "is_returning_visitor": false,
+    "visit_count": 1,
+    "bounce": true,
+    "conversion": false
+  },
+  {
+    "session_id": "3a6f4a3e-8",
+    "user_id": "guest_123.204.66.99",
+    "timestamp": "2025-07-22T11:10:40Z",
+    "user_agent": "FakeBrowser/1.0 (Linux)",
+    "device_type": "desktop",
+    "os": "Linux",
+    "browser": "Edge",
+    "page_url": "/product-idea-page",
+    "referrer": "blog",
+    "utm_source": "youtube",
+    "utm_medium": "ad",
+    "utm_campaign": "newidea_july",
+    "events": [
+      {
+        "event_type": "scroll",
+        "element_id": "featureSection",
+        "timestamp": "2025-07-22T11:10:52Z"
+      }
+    ],
+    "time_spent_seconds": 215,
+    "is_returning_visitor": true,
+    "visit_count": 2,
+    "bounce": false,
+    "conversion": true
+  },
+   {
+    "session_id": "2bd30b77-6",
+    "user_id": "guest_132.77.84.10",
+    "timestamp": "2025-07-22T11:20:10Z",
+    "user_agent": "FakeBrowser/1.0 (Windows 10)",
+    "device_type": "desktop",
+    "os": "Windows 10",
+    "browser": "Firefox",
+    "page_url": "/product-idea-page",
+    "referrer": "newsletter",
+    "utm_source": "instagram",
+    "utm_medium": "influencer",
+    "utm_campaign": "newidea_july",
+    "events": [
+      {
+        "event_type": "click",
+        "element_id": "tryNowButton",
+        "timestamp": "2025-07-22T11:20:18Z"
+      }
+    ],
+    "time_spent_seconds": 198,
+    "is_returning_visitor": false,
+    "visit_count": 1,
+    "bounce": true,
+    "conversion": false
+  },
+  {
+    "session_id": "a4e5c3c9-1",
+    "user_id": "guest_98.233.104.201",
+    "timestamp": "2025-07-22T11:22:32Z",
+    "user_agent": "FakeBrowser/1.0 (iOS)",
+    "device_type": "mobile",
+    "os": "iOS",
+    "browser": "Safari",
+    "page_url": "/product-idea-page",
+    "referrer": "ads",
+    "utm_source": "facebook",
+    "utm_medium": "ad",
+    "utm_campaign": "productlaunch_aug",
+    "events": [
+      {
+        "event_type": "submit",
+        "element_id": "formSubmit",
+        "timestamp": "2025-07-22T11:22:50Z"
+      }
+    ],
+    "time_spent_seconds": 245,
+    "is_returning_visitor": true,
+    "visit_count": 2,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "d03469a8-0",
+    "user_id": "guest_140.120.66.10",
+    "timestamp": "2025-07-22T11:25:01Z",
+    "user_agent": "FakeBrowser/1.0 (macOS)",
+    "device_type": "tablet",
+    "os": "macOS",
+    "browser": "Chrome",
+    "page_url": "/product-idea-page",
+    "referrer": "techpro",
+    "utm_source": "twitter",
+    "utm_medium": "influencer",
+    "utm_campaign": "newidea_july",
+    "events": [
+      {
+        "event_type": "scroll",
+        "element_id": "pricing",
+        "timestamp": "2025-07-22T11:25:19Z"
+      }
+    ],
+    "time_spent_seconds": 132,
+    "is_returning_visitor": false,
+    "visit_count": 3,
+    "bounce": true,
+    "conversion": false
+  },
+  {
+    "session_id": "e9c2f3d4-9",
+    "user_id": "guest_119.241.66.89",
+    "timestamp": "2025-07-22T11:28:15Z",
+    "user_agent": "FakeBrowser/1.0 (Android)",
+    "device_type": "mobile",
+    "os": "Android",
+    "browser": "Edge",
+    "page_url": "/product-idea-page",
+    "referrer": "blog",
+    "utm_source": "linkedin",
+    "utm_medium": "organic",
+    "utm_campaign": "newidea_july",
+    "events": [
+      {
+        "event_type": "hover",
+        "element_id": "submitButton",
+        "timestamp": "2025-07-22T11:28:22Z"
+      }
+    ],
+    "time_spent_seconds": 98,
+    "is_returning_visitor": true,
+    "visit_count": 4,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "1a9e7bce-2",
+    "user_id": "guest_203.111.74.11",
+    "timestamp": "2025-07-22T11:30:59Z",
+    "user_agent": "FakeBrowser/1.0 (Linux)",
+    "device_type": "desktop",
+    "os": "Linux",
+    "browser": "Chrome",
+    "page_url": "/product-idea-page",
+    "referrer": "newsletter",
+    "utm_source": "youtube",
+    "utm_medium": "ad",
+    "utm_campaign": "productlaunch_aug",
+    "events": [
+      {
+        "event_type": "click",
+        "element_id": "tryNowButton",
+        "timestamp": "2025-07-22T11:31:08Z"
+      }
+    ],
+    "time_spent_seconds": 276,
+    "is_returning_visitor": false,
+    "visit_count": 2,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "f93c7dd4-1",
+    "user_id": "guest_88.122.201.77",
+    "timestamp": "2025-07-22T11:32:12Z",
+    "user_agent": "FakeBrowser/1.0 (Windows 11)",
+    "device_type": "desktop",
+    "os": "Windows 11",
+    "browser": "Firefox",
+    "page_url": "/product-idea-page",
+    "referrer": "ads",
+    "utm_source": "google",
+    "utm_medium": "cpc",
+    "utm_campaign": "idea_launch",
+    "events": [
+      {
+        "event_type": "scroll",
+        "element_id": "header",
+        "timestamp": "2025-07-22T11:32:22Z"
+      }
+    ],
+    "time_spent_seconds": 105,
+    "is_returning_visitor": false,
+    "visit_count": 1,
+    "bounce": true,
+    "conversion": false
+  },
+  {
+    "session_id": "ecdf92c0-2",
+    "user_id": "guest_43.11.166.220",
+    "timestamp": "2025-07-22T11:34:40Z",
+    "user_agent": "FakeBrowser/1.0 (Android)",
+    "device_type": "mobile",
+    "os": "Android",
+    "browser": "Chrome",
+    "page_url": "/product-idea-page",
+    "referrer": "blog",
+    "utm_source": "facebook",
+    "utm_medium": "influencer",
+    "utm_campaign": "aug_push",
+    "events": [
+      {
+        "event_type": "click",
+        "element_id": "learnMore",
+        "timestamp": "2025-07-22T11:34:55Z"
+      }
+    ],
+    "time_spent_seconds": 173,
+    "is_returning_visitor": true,
+    "visit_count": 3,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "b78fcad1-4",
+    "user_id": "guest_19.223.134.9",
+    "timestamp": "2025-07-22T11:37:15Z",
+    "user_agent": "FakeBrowser/1.0 (iOS)",
+    "device_type": "tablet",
+    "os": "iOS",
+    "browser": "Safari",
+    "page_url": "/product-idea-page",
+    "referrer": "newsletter",
+    "utm_source": "instagram",
+    "utm_medium": "story",
+    "utm_campaign": "product_aug",
+    "events": [
+      {
+        "event_type": "submit",
+        "element_id": "formSubmit",
+        "timestamp": "2025-07-22T11:37:22Z"
+      }
+    ],
+    "time_spent_seconds": 256,
+    "is_returning_visitor": false,
+    "visit_count": 2,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "b30422df-3",
+    "user_id": "guest_162.58.172.201",
+    "timestamp": "2025-07-22T11:39:47Z",
+    "user_agent": "FakeBrowser/1.0 (Linux)",
+    "device_type": "desktop",
+    "os": "Linux",
+    "browser": "Edge",
+    "page_url": "/product-idea-page",
+    "referrer": "social",
+    "utm_source": "linkedin",
+    "utm_medium": "post",
+    "utm_campaign": "growth_campaign",
+    "events": [
+      {
+        "event_type": "hover",
+        "element_id": "pricingTable",
+        "timestamp": "2025-07-22T11:39:55Z"
+      }
+    ],
+    "time_spent_seconds": 87,
+    "is_returning_visitor": true,
+    "visit_count": 4,
+    "bounce": true,
+    "conversion": false
+  },
+  {
+    "session_id": "de2c92f3-9",
+    "user_id": "guest_192.0.2.44",
+    "timestamp": "2025-07-22T11:42:19Z",
+    "user_agent": "FakeBrowser/1.0 (macOS)",
+    "device_type": "desktop",
+    "os": "macOS",
+    "browser": "Chrome",
+    "page_url": "/product-idea-page",
+    "referrer": "email",
+    "utm_source": "mailchimp",
+    "utm_medium": "email",
+    "utm_campaign": "newidea_mail_july",
+    "events": [
+      {
+        "event_type": "click",
+        "element_id": "tryNowButton",
+        "timestamp": "2025-07-22T11:42:33Z"
+      }
+    ],
+    "time_spent_seconds": 190,
+    "is_returning_visitor": false,
+    "visit_count": 1,
+    "bounce": false,
+    "conversion": true
+  },
+   {
+    "session_id": "cc117a2b-1",
+    "user_id": "guest_192.168.12.101",
+    "timestamp": "2025-07-22T11:45:55Z",
+    "user_agent": "FakeBrowser/1.0 (Windows 10)",
+    "device_type": "desktop",
+    "os": "Windows 10",
+    "browser": "Firefox",
+    "page_url": "/product-idea-page",
+    "referrer": "search",
+    "utm_source": "bing",
+    "utm_medium": "cpc",
+    "utm_campaign": "idea_drive",
+    "events": [
+      {
+        "event_type": "click",
+        "element_id": "demoButton",
+        "timestamp": "2025-07-22T11:46:03Z"
+      }
+    ],
+    "time_spent_seconds": 89,
+    "is_returning_visitor": true,
+    "visit_count": 2,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "a91d3a4b-2",
+    "user_id": "guest_185.32.112.57",
+    "timestamp": "2025-07-22T11:47:40Z",
+    "user_agent": "FakeBrowser/1.0 (Android)",
+    "device_type": "mobile",
+    "os": "Android",
+    "browser": "Opera",
+    "page_url": "/product-idea-page",
+    "referrer": "blog",
+    "utm_source": "reddit",
+    "utm_medium": "organic",
+    "utm_campaign": "userfeedback_phase1",
+    "events": [
+      {
+        "event_type": "scroll",
+        "element_id": "testimonials",
+        "timestamp": "2025-07-22T11:47:52Z"
+      }
+    ],
+    "time_spent_seconds": 133,
+    "is_returning_visitor": false,
+    "visit_count": 1,
+    "bounce": true,
+    "conversion": false
+  },
+  {
+    "session_id": "fd9b289c-3",
+    "user_id": "guest_203.0.113.88",
+    "timestamp": "2025-07-22T11:49:23Z",
+    "user_agent": "FakeBrowser/1.0 (iOS)",
+    "device_type": "mobile",
+    "os": "iOS",
+    "browser": "Safari",
+    "page_url": "/product-idea-page",
+    "referrer": "email",
+    "utm_source": "newsletter",
+    "utm_medium": "campaign",
+    "utm_campaign": "aug_special",
+    "events": [
+      {
+        "event_type": "click",
+        "element_id": "subscribeButton",
+        "timestamp": "2025-07-22T11:49:35Z"
+      }
+    ],
+    "time_spent_seconds": 147,
+    "is_returning_visitor": true,
+    "visit_count": 3,
+    "bounce": false,
+    "conversion": true
+  },
+  {
+    "session_id": "e7a42f61-4",
+    "user_id": "guest_172.217.0.0",
+    "timestamp": "2025-07-22T11:51:00Z",
+    "user_agent": "FakeBrowser/1.0 (macOS)",
+    "device_type": "desktop",
+    "os": "macOS",
+    "browser": "Edge",
+    "page_url": "/product-idea-page",
+    "referrer": "ads",
+    "utm_source": "twitter",
+    "utm_medium": "paid",
+    "utm_campaign": "feature_highlight",
+    "events": [
+      {
+        "event_type": "hover",
+        "element_id": "videoIntro",
+        "timestamp": "2025-07-22T11:51:12Z"
+      }
+    ],
+    "time_spent_seconds": 61,
+    "is_returning_visitor": false,
+    "visit_count": 1,
+    "bounce": true,
+    "conversion": false
+  },
+  {
+    "session_id": "bcaf3c11-5",
+    "user_id": "guest_198.51.100.203",
+    "timestamp": "2025-07-22T11:53:10Z",
+    "user_agent": "FakeBrowser/1.0 (Linux)",
+    "device_type": "desktop",
+    "os": "Linux",
+    "browser": "Chrome",
+    "page_url": "/product-idea-page",
+    "referrer": "forum",
+    "utm_source": "quora",
+    "utm_medium": "qna",
+    "utm_campaign": "awareness_boost",
+    "events": [
+      {
+        "event_type": "submit",
+        "element_id": "contactForm",
+        "timestamp": "2025-07-22T11:53:30Z"
+      }
+    ],
+    "time_spent_seconds": 178,
+    "is_returning_visitor": true,
+    "visit_count": 2,
+    "bounce": false,
+    "conversion": true
+  }
+]
